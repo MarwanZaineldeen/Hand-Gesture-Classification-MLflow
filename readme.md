@@ -197,6 +197,6 @@ http://127.0.0.1:5000
 
 ## 🎓 Acknowledgments
 
-This research was conducted as part of the **Information Technology Institute (ITI)** — 9-Month Artificial Intelligence Program.
+This project was developed as part of the **Information Technology Institute (ITI)** — 9-Month Artificial Intelligence Program.
 
 ---
